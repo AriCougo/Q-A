@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+section{
+  background: linear-gradient(109.6deg, rgb(44, 83, 131) 18.9%, rgb(95, 175, 201) 91.1%);
+  height: 120vh;
+}
+
+.formControl{
+  background-color: white;
+  border: 1px solid black;
+}
+
+.inputLabel{
+  margin-top: 5px;
+}
